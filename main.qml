@@ -6,6 +6,7 @@ Window {
     height: 480
     visible: true
 asdasd
+asdasd
     title: qsTr("Hello World")
 asdasdas
 }
