@@ -5,6 +5,7 @@ Window {
     width: 640
     height: 480
     visible: true
+asdasd
     title: qsTr("Hello World")
 asdasdas
 }
